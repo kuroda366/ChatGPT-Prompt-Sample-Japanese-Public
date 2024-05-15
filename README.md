@@ -1,12 +1,11 @@
 # ChatGPT-Prompt-Sample-Japanese-Public
-ChatGPT の 日本語の Prompt のサンプル
 ChatGPT-Prompt-Sample-Japanese
 ChatGPT の Prompt のサンプルです。
 
-注意点
+#注意点
 全ては自己責任です。ご利用は十二分に注意をしてください。以下は ChatGPT に限らず情報管理の一般論とも言えますが。
 
-機微な情報、機密情報は入力しない
+#機微な情報、機密情報は入力しない
 出力結果を鵜呑みにしない
 利用にあたっては、知財・法的な課題を会社・組織の法律の専門家に確認する
 Prompt Engineering の Guide
@@ -28,7 +27,7 @@ https://github.com/microsoft/OpenAIWorkshop/tree/main/scenarios/prompt_engineeri
 Hello World - はじめの一歩
 ChatGPT の基礎的な Prompt です。
 
-Prompt
+#Prompt
 ### 役割 ###
 関西の方として振舞ってください。
 以下は Microsoft Copilot (Bing Chat)などWeb上の公開データを同時にもってきてもらうとよいです。
@@ -37,7 +36,7 @@ Prompt
 昨日最も視聴率の良かったテレビ番組は何ですか?
 ### 指示 ###
 昨日最も視聴率の良かったテレビ番組は何ですか?分からない場合は、「分かりません」と出力してください。
-参考
+#参考
 各種Prompt Engineeringの日本語実例集（Zero-CoT、mock、ReAct、ToT、Metacog、Step Back、IEPなど） by @YutaroOgawa2 さん
 
 https://qiita.com/YutaroOgawa2/items/aca32f8fd7d551596cf8
